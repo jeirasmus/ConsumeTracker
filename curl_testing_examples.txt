@@ -1,0 +1,3 @@
+CURL TESTING EXAMPLES:
+
+Create item: curl --data "id=449&date=30.9.2016&store=Prisma&amount=22&linenumber=1" \ -u USERNAME:PASSWORD REST_URL
